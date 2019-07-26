@@ -12,7 +12,7 @@ ubuntu@ubuntu $ ./BankSystem
 
 Deepak Singh
 
-Credit to Deepak Singh for the use of the Bank Syste Project.
+Credit to Deepak Singh for the use of the Bank System Project.
 
 http://www.cppforschool.com/project/banking-system-project.html
 
